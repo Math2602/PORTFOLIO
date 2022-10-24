@@ -23,7 +23,7 @@
             </div>
             <div class="right-header">
                 <h1 class="name">
-                    Bonjour, je suis <span>Boris AUBERT.</span>
+                    Bonjour, je suis <span>Mathilde MESCLON.</span>
                     Étudiant en école de commerce dans le secteur du jeu vidéo au <span>Gaming Campus.</span> 
                 </h1>
                 <p>
