@@ -1,4 +1,3 @@
-<?php include 'C:\UwAmp\www\sendmail.php'; ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -18,21 +17,22 @@
             <div class="left-header">
                 <div class="h-shape"></div>
                 <div class="image">
-                    <img src="img/photo_pro.jpg" alt="">
+                    <img src="img/mathilde.jpg" alt="">
                 </div>
             </div>
             <div class="right-header">
                 <h1 class="name">
-                    Bonjour, je suis <span>Mathilde MESCLON.</span>
-                    Étudiant en école de commerce dans le secteur du jeu vidéo au <span>Gaming Campus.</span> 
+                    Bonjour, je m'appelle <span>Mathilde.</span>
+                    Une étudiante en Marketing.
                 </h1>
                 <p>
-                    Je suis dans ma 3ème année de bachelor marketing et management du jeu vidéo, j'aimerai dans l'idéal travailler dans l'univers de ces derniers, de leur création à leur mise en vente.
-                    Mes passions sont les jeux vidéo évidemment, le sport et les nouvelles technologies. Je m'intéresse aussi à l'innovation et à la culture en général. 
+                    Je suis étudiante en marketing, spécialisée dans le secteur du jeux vidéo.
+                    J'ai pour objectif d'aider les entreprises à développer leur stratégie marketing.
+            
                 </p>
                 <div class="btn-con">
-                    <a href="" class="main-btn">
-                        <span class="btn-text">Voici mon CV</span>
+                    <a href="file:///C:/Users/mmesclon/Downloads/Profile.pdf" class="main-btn">
+                        <span class="btn-text">Télécharger mon CV</span>
                         <span class="btn-icon"><i class="fas fa-download"></i></span>
                     </a>
                 </div>
@@ -42,19 +42,19 @@
     <main>
         <section class="container about" id="about">
             <div class="main-title">
-                <h2>À propos <span>de moi</span><span class="bg-text">mes stats</span></h2>
+                <h2>A propos de <span>moi</span><span class="bg-text">mes statistiques</span></h2>
             </div>
             <div class="about-container">
                 <div class="left-about">
-                    <h4>Quelques informations à mon propos</h4>
+                    <h4>Mes informations</h4>
                     <p>
-                        Ayant un père graphiste, j'ai toujours été intéréssé de près ou de loin à l'informatique et aux jeux vidéo. <br /> <br /> Étant aussi un pratiquant régulier et compétitif de sport, le monde du sport électronique c'est ouvert tout naturellement à moi
-                        J'ai voulu donc logiquement lier mes études à ma passion ce qui m'a amené à vouloir devenir développeur JV dans un premier temps.<br /> <br />
-                        Me rendant compte par la suite que le code n'était pas fait pour moi, je me suis réorienté dans le commerce pour pouvoir créer un jeu vidéo d'une autre manière. Désormais fier étudiant dans le milieu du commerce et du jeu vidéo je poursuis mon cursus scolaire en espérant un jour devenir cadre dans le marketing, le management et la monétisation des jeux vidéo.
+                        Etudiante de 22 ans en 3ème année au Gaming Campus de Lyon.<br /> <br /> 
+                        Je détiens un bachelor en business et management de l'ISG, 
+                        ainsi qu'un bachelor en International Business de l'université de Santander en Espagne. <br /> <br /> 
                     </p>
                     <div class="btn-con">
-                        <a href="#" class="main-btn">
-                            <span class="btn-text">C'est encore mon CV</span>
+                        <a href="file:///C:/Users/mmesclon/Downloads/Profile.pdf" class="main-btn">
+                            <span class="btn-text">Télécharger mon CV</span>
                             <span class="btn-icon"><i class="fas fa-download"></i></span>
                         </a>
                     </div>
@@ -62,26 +62,26 @@
                 <div class="right-about">
                     <div class="about-item">
                         <div class="abt-text">
-                            <p class="large-text">40+</p>
-                            <p class="small-text">Projets <br /> Completés</p>
+                            <p class="large-text">10+</p>
+                            <p class="small-text">Projets <br /> Réalisés</p>
                         </div>
                     </div>
                     <div class="about-item">
                         <div class="abt-text">
-                            <p class="large-text">3+</p>
-                            <p class="small-text">Années<br />d'experiences</p>
+                            <p class="large-text">1+</p>
+                            <p class="small-text">Année <br /> d'expérience</p>
                         </div>
                     </div>
                     <div class="about-item">
                         <div class="abt-text">
-                            <p class="large-text">6+</p>
-                            <p class="small-text">Mois d'experiences <br /> Professionnelles</p>
+                            <p class="large-text">5+</p>
+                            <p class="small-text">Clients <br /> Heureux</p>
                         </div>
                     </div>
                     <div class="about-item">
                         <div class="abt-text">
                             <p class="large-text">10+</p>
-                            <p class="small-text">Années <br />en tant que joueur régulier</p>
+                            <p class="small-text">Customer <br /> reviews</p>
                         </div>
                     </div>
                 </div>
@@ -90,7 +90,7 @@
                 <h4 class="stat-title">Mes compétences</h4>
                 <div class="progress-bars">
                     <div class="progress-bar">
-                        <p class="prog-title">Gestion de projet</p>
+                        <p class="prog-title">Anglais</p>
                         <div class="progress-con">
                             <p class="prog-text">80%</p>
                             <div class="progress">
@@ -99,45 +99,45 @@
                         </div>
                     </div>
                     <div class="progress-bar">
-                        <p class="prog-title">Marketing</p>
+                        <p class="prog-title">css3</p>
                         <div class="progress-con">
-                            <p class="prog-text">75%</p>
+                            <p class="prog-text">50%</p>
                             <div class="progress">
                                 <span class="css"></span>
                             </div>
                         </div>
                     </div>
                     <div class="progress-bar">
-                        <p class="prog-title">Hmtl & CSS</p>
+                        <p class="prog-title">Espagnol</p>
                         <div class="progress-con">
-                            <p class="prog-text">35%</p>
+                            <p class="prog-text">70%</p>
                             <div class="progress">
                                 <span class="js"></span>
                             </div>
                         </div>
                     </div>
                     <div class="progress-bar">
-                        <p class="prog-title">Suite adobe</p>
+                        <p class="prog-title">Marketing</p>
                         <div class="progress-con">
-                            <p class="prog-text">50</p>
+                            <p class="prog-text">85%</p>
                             <div class="progress">
                                 <span class="react"></span>
                             </div>
                         </div>
                     </div>
                     <div class="progress-bar">
-                        <p class="prog-title">Suite office</p>
+                        <p class="prog-title">Canva</p>
                         <div class="progress-con">
-                            <p class="prog-text">70%</p>
+                            <p class="prog-text">90%</p>
                             <div class="progress">
                                 <span class="node"></span>
                             </div>
                         </div>
                     </div>
                     <div class="progress-bar">
-                        <p class="prog-title">Connaissances culturelles vidéoludiques</p>
+                        <p class="prog-title">Pack office</p>
                         <div class="progress-con">
-                            <p class="prog-text">95%</p>
+                            <p class="prog-text">90%</p>
                             <div class="progress">
                                 <span class="python"></span>
                             </div>
@@ -145,92 +145,91 @@
                     </div>
                 </div>
             </div>
-            <h4 class="stat-title">Ma Timeline</h4>
+            <h4 class="stat-title">Mes expériences</h4>
             <div class="timeline">
                 <div class="timeline-item">
                     <div class="tl-icon">
                         <i class="fas fa-briefcase"></i>
                     </div>
-                    <p class="tl-duration">2020 - maintenant</p>
-                    <h5>Bachelor<span> - Gaming Campus</span></h5>
+                    <p class="tl-duration">Juin 2022 - Juillet 2022</p>
+                    <h5>Stagiaire événementiel<span> - Baila all dance</span></h5>
                     <p>
-                        Étudiant en management et marketing dans le milieu du jeu vidéo.
+                        Organisation de la première édition de la Korean Touch à Lyon (6000 personnes sur le week-end).
                     </p>
                 </div>
                 <div class="timeline-item">
                     <div class="tl-icon">
                         <i class="fas fa-briefcase"></i>
                     </div>
-                    <p class="tl-duration">Mai - Juin 2022</p>
-                    <h5>Gestion de projet<span> - Horizon jeu vidéo</span></h5>
+                    <p class="tl-duration">Septembre 2022 - Présent</p>
+                    <h5>Bachelor<span> - Gaming campus</span></h5>
                     <p>
-                        Pôle gestion de projet pour un évènement de live caritatif.
+                       Bachelor business et management option jeux vidéo et Esport.
                     </p>
                 </div>
                 <div class="timeline-item">
                     <div class="tl-icon">
                         <i class="fas fa-briefcase"></i>
                     </div>
-                    <p class="tl-duration">Juillet - Septembre 2021</p>
-                    <h5>Vendeur conseil<span> - Eveil Natur'miel</span></h5>
+                    <p class="tl-duration">Octobre 2020 - Aout 2021</p>
+                    <h5>Vendeuse<span> - NAAN</span></h5>
                     <p>
-                        Vente, conseil et accueil pour un magasin de vente de miel et appiculture.
+                        Vendeuse à temps plein en boulangerie pendant une année de césure.
                     </p>
                 </div>
                 <div class="timeline-item">
                     <div class="tl-icon">
                         <i class="fas fa-briefcase"></i>
                     </div>
-                    <p class="tl-duration">Mars - Mai 2019</p>
-                    <h5>Accueil et vente<span> - Hoops Factory Blagnac</span></h5>
+                    <p class="tl-duration">Septembre 2021 - Juin 2022</p>
+                    <h5>Bachelor's degree<span> - CESINE </span></h5>
                     <p>
-                        Vente et accueil pour la chaîne Hoops factory qui loue des terrains de basket pour particuliers et professionels.
+                       Année d'échange, Bachelor's degree in International business and management in Spain. En partenariat avec la London metropolitan University.
                     </p>
                 </div>
                 <div class="timeline-item">
                     <div class="tl-icon">
                         <i class="fas fa-briefcase"></i>
                     </div>
-                    <p class="tl-duration">Décembre - Février 2019</p>
-                    <h5>Vente et conseil<span> - Intersport</span></h5>
+                    <p class="tl-duration">Mars 2020 - Juin 2020</p>
+                    <h5>Projet planète solidaire<span> - Expertise Financement</span></h5>
                     <p>
-                        Vente et conseil au rayon multisport pour la chaîne de magasin Intersport.
+                        Aide envers une petite entreprise pour se développer digitalement.
                     </p>
                 </div>
                 <div class="timeline-item">
                     <div class="tl-icon">
                         <i class="fas fa-briefcase"></i>
                     </div>
-                    <p class="tl-duration">2018 - 2019</p>
-                    <h5>Formation VCS "vendeur conseiller sport<span> - CNPC PAU Lescar</span></h5>
+                    <p class="tl-duration">Septembre 2018 - Juin 2022</p>
+                    <h5>Bachelor<span> - ISG</span></h5>
                     <p>
-                        Formation d'un an pour devenir vendeur conseil dans des magasins de sport tel que decathlon et intersport.
+                        Bachelor programme business et management.
                     </p>
                 </div>
             </div>
         </section>
         <section class="container" id="portfolio">
             <div class="main-title">
-                <h2>Mon <span>Portfolio</span><span class="bg-text">Mon Travail</span></h2>
+                <h2>Mon <span>Portfolio</span><span class="bg-text">My Work</span></h2>
             </div>
             <p class="port-text">
-                Voici quelques exemples de projet que j'ai pu réaliser au cour de mon cursus au Gaming Campus.
+                Ici vous trouverez les travaux que j'ai pu réaliser.
             </p>
             <div class="portfolios">
                 <div class="portfolio-item">
                     <div class="image">
-                        <img src="img/port1.jpg" alt="">
+                        <img src="img/KT.png" alt="">
                     </div>
                     <div class="hover-items">
-                        <h3>Project Source</h3>
+                        <h3>Projet Korean Touch</h3>
                         <div class="icons">
-                            <a href="#" class="icon">
-                                <i class="fab fa-github"></i>
+                            
                             </a>
-                            <a href="#" class="icon">
-                                <i class="fab fa-behance"></i>
+                            <a href="https://korean-touch.com/" class="icon">
+                                <i class="fab fa-google"></i>
                             </a>
-                            <a href="#" class="icon">
+                            <a href="https://www.youtube.com/watch?v=NxMgAmmB0AI" class="icon">
                                 <i class="fab fa-youtube"></i>
                             </a>
                         </div>
@@ -355,7 +354,7 @@
         <section class="container" id="blogs">
             <div class="blogs-content">
                 <div class="main-title">
-                    <h2>My <span>Blogs</span><span class="bg-text">Mon Blogs</span></h2>
+                    <h2>My <span>Blogs</span><span class="bg-text">My Blogs</span></h2>
                 </div>
                 <div class="blogs">
                     <div class="blog">
@@ -440,15 +439,15 @@
                 </div>
                 <div class="contact-content-con">
                     <div class="left-contact">
-                        <h4>Contactez moi</h4>
+                        <h4>Contactez moi ici</h4>
                         <p>
-                            Si jamais vous êtes interessé par une collaboration, ou si vous aimeriez me contacter pour n'importe quelle demande voici un formulaire de contact.
+                            Pour toute information, demande ou autre merci de me contacter via ces informations.
                         </p>
                         <div class="contact-info">
                             <div class="contact-item">
                                 <div class="icon">
                                     <i class="fas fa-map-marker-alt"></i>
-                                    <span>Location</span>
+                                    <span>Localisation</span>
                                 </div>
                                 <p>
                                     : Lyon, France
@@ -460,34 +459,34 @@
                                     <span>Email</span>
                                 </div>
                                 <p>
-                                    <span>: borisdu64@hotmail.fr</span>
+                                    <span>: mathilde.mesclon2602@gmail.com</span>
                                 </p>
                             </div>
                             <div class="contact-item">
                                 <div class="icon">
                                     <i class="fas fa-user-graduate"></i>
-                                    <span>Gaming Business School</span>
+                                    <span>Education</span>
                                 </div>
                                 <p>
-                                    <span>: Lyon, France</span>
+                                    <span>: Gaming Campus, Lyon</span>
                                 </p>
                             </div>
                             <div class="contact-item">
                                 <div class="icon">
                                     <i class="fas fa-user-graduate"></i>
-                                    <span>Mobile Number</span>
+                                    <span>Téléphone</span>
                                 </div>
                                 <p>
-                                    <span>: 0760854824</span>
+                                    <span>: 0659577186</span>
                                 </p>
                             </div>
                             <div class="contact-item">
                                 <div class="icon">
                                     <i class="fas fa-globe-africa"></i>
-                                    <span>Languages</span>
+                                    <span>Langues</span>
                                 </div>
                                 <p>
-                                    <span>: Français, Anglais, Espagnol</span>
+                                    <span>: Français, Anglais</span>
                                 </p>
                             </div>
                         </div>
@@ -496,14 +495,9 @@
                                 <a href="www.facebook.com" target="_blank">
                                     <i class="fab fa-facebook-f"></i>
                                 </a>
-                                <a href="#" target="_blank">
-                                    <i class="fab fa-twitter"></i>
-                                </a>
-                                <a href="#" target="_blank">
-                                    <i class="fab fa-github"></i>
-                                </a>
-                                <a href="#" target="_blank">
-                                    <i class="fab fa-youtube"></i>
+                                <a href="https://www.linkedin.com/in/mathilde-mesclon-120632178/" target="_blank">
+                                    <i class="fab fa-linkedin"></i>
+                                
                                 </a>
                             </div>
                         </div>
@@ -511,18 +505,18 @@
                     <div class="right-contact">
                         <form action="" class="contact-form">
                             <div class="input-control i-c-2">
-                                <input type="text" required placeholder="Noms">
-                                <input type="email" required placeholder="EMAIL">
+                                <input type="text" required placeholder="YOUR NAME">
+                                <input type="email" required placeholder="YOUR EMAIL">
                             </div>
                             <div class="input-control">
-                                <input type="text" required placeholder="SUJET">
+                                <input type="text" required placeholder="ENTER SUBJECT">
                             </div>
                             <div class="input-control">
-                                <textarea name="" id="" cols="15" rows="8" placeholder="Message Ici..."></textarea>
+                                <textarea name="" id="" cols="15" rows="8" placeholder="Message Here..."></textarea>
                             </div>
                             <div class="submit-btn">
-                                <a href="#" class="main-btn">
-                                    <span class="btn-text">C'est encore mon CV</span>
+                                <a href="file:///C:/Users/mmesclon/Downloads/Profile.pdf" class="main-btn">
+                                    <span class="btn-text">Téléchargez mon CV</span>
                                     <span class="btn-icon"><i class="fas fa-download"></i></span>
                                 </a>
                             </div>
